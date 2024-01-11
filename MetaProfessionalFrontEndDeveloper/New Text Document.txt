@@ -1,0 +1,108 @@
+Front-End Developer
+All parts of web app-Style,Color,UI Design
+Html,Css,Javascript
+Junior--->Mid--->Senior
+
+Backend Developer
+
+Web Server,Database,Achutecture
+
+Responsible for maintaining
+Back-End Technologies--->WebServers,API'S
+
+Full Stack Developer
+
+Responsibe for Planning,Achutecture,
+Design,Deployement,Developement,Maintenance,
+----------------------------------------------------x-----------------
+How does the Internet Work?
+1.Network(A Network is made up of atleast two devices that connects and communicates ovee
+a wireless connection)
+2.Network Switch(foms an interconnected Network---Internet)
+What is web-server?
+Data Center
+Hardware(can be toched)
+Software(cannot be touched)
+Request-Response-Cycle--->
+
+A server is a computer that runs applications and services,ranging from websites
+to instant messaging
+
+1.A web server can function as a websites storage and administration
+2.Web servers can handle thouands of requests from client per second
+3.A web server can handle security
+--------------------------------------------x---------------------------------
+Websites and WebPages
+
+Web Browser,Web Server,Web hosting
+
+Shared Hosting:Cheap
+
+Vps Hosting:Physical
+Dedicated Hosting(Expensive)
+Cloud Hosting(Easy)
+
+---------------------------Part2------------------------------------
+Internet Protocols(IpV4,Ip V6)
+Every Computer is asssigned an Ip Address
+IP Packet-->
+Destination Ip
+Source IP Address
+Packet may be damaged or corrupted
+TCP(The protocol is used for sending Data that must arrive correctly and in order)+UDP
+UDP(It is used to solve corruupt data issues and data maynot come in order)
+
+
+HTTP(Transfer )-->Req response Model---?Get,POST,PUT,DELETE
+
+Headers(contains aditional information)
+HTTP Status Code->5 Http Staus Code
+200-299-->Succesful Response-->200k
+Redirection Response--->300-399
+Client Side Error--->400-403
+
+
+HTTPS
+HTML-------------->CSS---------------->Javascript---------------------------->
+
+
+
+WebPages,Websites,Web applications
+
+Webpages are linked by HyperLinks
+
+Website vs Web applications
+Not Interactive ---Interactive
+
+------------------Developer Tools----------------------
+
+When there is a problem in code...you can debug using Developer Tools
+-----------------------Frameworks and Libraries------------------------
+
+Both are Opensources
+Libraries are reusuable pieces ofcodes,Tims saving,Secific Functionality
+Frameworks acts as a Blue-print
+Frameworks vs Libraries
+opinionates and un-opinionated
+Prons
+Time saving
+Structure
+connect
+Faster Developement,Fewer Errors,Time Saving
+
+
+----------------Apis----------------------
+Apis(a set of functions that an allication can rovide) are developer-friendly
+
+Browser Apis
+DOM API(Html api to tree of nodes)
+Geo-location Apis
+FetchApis
+RestApi(a set of principles )
+Sensor Based Api(IOT)
+
+API Uses Endpoints
+----------IDE--------------------
+Integrated developemnt Environment
+
+Some specifc program IDE'S
