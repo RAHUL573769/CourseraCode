@@ -3,10 +3,11 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./index.css" />
     <title>Little Lemon</title>
   </head>
   <body>
-    <h1>Our Menu</h1>
+    <h1 class="heading">Our Menu</h1>
     <h2>Menu -01</h2>
     <p>Lettuce,Salad</p>
     <a href="https://www.google.com/">Google</a>
@@ -15,5 +16,42 @@
       alt="Photo"
       srcset=""
     />
+    <h3>Html with Tables</h3>
+
+    <table>
+      <tr>
+        <td>Name</td>
+        <td>Price</td>
+      </tr>
+      <tr>
+        <td>Falafel</td>
+        <td>10.22</td>
+      </tr>
+      <tr>
+        <td>Soup</td>
+        <td>2.34</td>
+      </tr>
+    </table>
+
+    <h3>Forms</h3>
+
+    <form action="/registration" method="POST">
+      <label for="username">User Name</label>
+      <br />
+      <input type="text" name="username" id="" />
+      <br />
+      <label for="password">Password</label>
+      <br />
+      <input type="password" name="password" id="" />
+      <br />
+
+      <select name="food" id="">
+        <option value="chocolate">Chocolate</option>
+        <option value="icecream">Ice -Cream</option>
+      </select>
+      <input type="submit" value="Submit" />
+      <br />
+    </form>
+    <!-- Web accessibiliy -->
   </body>
 </html>
